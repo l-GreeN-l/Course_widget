@@ -1,6 +1,3 @@
-
-
-
 import sys
 # Класс QUrl предоставляет удобный интерфейс для работы с Urls
 from PyQt5.QtCore import QUrl
